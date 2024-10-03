@@ -1,0 +1,301 @@
+Comment ID,Customer Comment,Category
+1,Produit pas cher mais de mauvaise qualité.,Problème de Commande
+2,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Qualité
+3,"Produit satisfaisant, mais livraison trop longue.",Problème de Commande
+4,"Mauvais service client, aucune réponse à mes demandes.",Problème de Qualité
+5,"Le produit est arrivé plus tôt que prévu, super service.",Commentaire Positif
+6,"Je n'ai pas reçu le bon produit, commande à revoir.",Service Client
+7,"Le produit est arrivé plus tôt que prévu, super service.",Commentaire Positif
+8,"La livraison était dans les temps, rien à signaler.",Problème de Commande
+9,"Le produit est arrivé cassé, très déçu.",Commentaire Positif
+10,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Commande
+11,"Le produit est arrivé plus tôt que prévu, super service.",Service Client
+12,"Mauvais emballage, article endommagé à l'arrivée.",Problème de Qualité
+13,"Emballage parfait, produit en excellent état.",Commentaire Positif
+14,"Le produit est conforme à mes attentes, très satisfait.",Commentaire Positif
+15,"Livraison très lente, je ne suis pas content du service.",Commentaire Positif
+16,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Livraison
+17,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+18,"Produit de qualité, mais le prix est trop élevé.",Problème de Livraison
+19,"Le produit est conforme à mes attentes, très satisfait.",Commentaire Positif
+20,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+21,Produit pas cher mais de mauvaise qualité.,Commentaire Positif
+22,"Livraison rapide, produit conforme à la description.",Problème de Livraison
+23,"Le produit est arrivé cassé, très déçu.",Problème de Livraison
+24,"Livraison très lente, je ne suis pas content du service.",Problème de Commande
+25,"Mauvais service client, aucune réponse à mes demandes.",Problème de Commande
+26,"Produit de qualité, mais le prix est trop élevé.",Service Client
+27,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Commentaire Positif
+28,"Produit de qualité, mais le prix est trop élevé.",Problème de Livraison
+29,"Le produit est de très bonne qualité, je suis satisfait.",Problème de Livraison
+30,"La livraison était dans les temps, rien à signaler.",Problème de Livraison
+31,"Produit excellent, je recommande à tous.",Problème de Livraison
+32,"Très mauvaise qualité, cassé après une utilisation.",Problème de Qualité
+33,"Service client efficace et rapide, problème résolu.",Problème de Qualité
+34,"Produit de qualité, mais le prix est trop élevé.",Problème de Qualité
+35,"Produit excellent, je recommande à tous.",Problème de Qualité
+36,"Le produit est conforme à mes attentes, très satisfait.",Service Client
+37,"Le produit est arrivé plus tôt que prévu, super service.",Service Client
+38,"Mauvais emballage, article endommagé à l'arrivée.",Commentaire Positif
+39,"Livraison très lente, je ne suis pas content du service.",Problème de Qualité
+40,"Produit excellent, je recommande à tous.",Service Client
+41,"Emballage parfait, produit en excellent état.",Problème de Livraison
+42,"Service client efficace et rapide, problème résolu.",Problème de Qualité
+43,"Très content du service client, réactif et à l'écoute.",Service Client
+44,"Le produit est arrivé cassé, très déçu.",Service Client
+45,"Livraison rapide, produit conforme à la description.",Commentaire Positif
+46,"Produit de qualité, mais le prix est trop élevé.",Problème de Commande
+47,"Produit excellent, je recommande à tous.",Problème de Livraison
+48,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+49,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+50,"Très mauvaise qualité, cassé après une utilisation.",Commentaire Positif
+51,"Très mauvaise qualité, cassé après une utilisation.",Problème de Qualité
+52,"Produit satisfaisant, mais livraison trop longue.",Service Client
+53,"Très content du service client, réactif et à l'écoute.",Problème de Commande
+54,"Livraison très lente, je ne suis pas content du service.",Problème de Livraison
+55,"Très mauvaise qualité, cassé après une utilisation.",Service Client
+56,"Le produit est conforme à mes attentes, très satisfait.",Service Client
+57,"Mauvais emballage, article endommagé à l'arrivée.",Commentaire Positif
+58,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+59,"Emballage parfait, produit en excellent état.",Problème de Qualité
+60,"Livraison très lente, je ne suis pas content du service.",Commentaire Positif
+61,"Produit excellent, je recommande à tous.",Problème de Qualité
+62,"Le produit est conforme à mes attentes, très satisfait.",Problème de Commande
+63,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Livraison
+64,"Livraison très lente, je ne suis pas content du service.",Problème de Livraison
+65,"Produit de qualité, mais le prix est trop élevé.",Commentaire Positif
+66,"Le produit est de très bonne qualité, je suis satisfait.",Problème de Livraison
+67,Produit pas cher mais de mauvaise qualité.,Commentaire Positif
+68,"La livraison était dans les temps, rien à signaler.",Service Client
+69,"Emballage parfait, produit en excellent état.",Commentaire Positif
+70,"Produit satisfaisant, mais livraison trop longue.",Problème de Livraison
+71,"Mauvais service client, aucune réponse à mes demandes.",Commentaire Positif
+72,"Très content du service client, réactif et à l'écoute.",Service Client
+73,"Service client efficace et rapide, problème résolu.",Problème de Qualité
+74,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Qualité
+75,"Emballage parfait, produit en excellent état.",Problème de Commande
+76,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Qualité
+77,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+78,"Produit excellent, je recommande à tous.",Problème de Qualité
+79,"Produit satisfaisant, mais livraison trop longue.",Problème de Qualité
+80,"La livraison était dans les temps, rien à signaler.",Problème de Qualité
+81,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+82,"Problème avec la commande, erreur dans le produit reçu.",Problème de Livraison
+83,"Produit satisfaisant, mais livraison trop longue.",Commentaire Positif
+84,"Très content du service client, réactif et à l'écoute.",Service Client
+85,"Le produit est arrivé cassé, très déçu.",Problème de Commande
+86,"Le produit est arrivé cassé, très déçu.",Service Client
+87,"Emballage parfait, produit en excellent état.",Problème de Commande
+88,"Mauvais emballage, article endommagé à l'arrivée.",Problème de Qualité
+89,"Le produit est arrivé cassé, très déçu.",Commentaire Positif
+90,"Mauvais service client, aucune réponse à mes demandes.",Service Client
+91,"Emballage parfait, produit en excellent état.",Service Client
+92,"La livraison était dans les temps, rien à signaler.",Commentaire Positif
+93,"Très content du service client, réactif et à l'écoute.",Service Client
+94,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+95,"Emballage parfait, produit en excellent état.",Problème de Commande
+96,"Produit satisfaisant, mais livraison trop longue.",Problème de Livraison
+97,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+98,"Problème avec la commande, erreur dans le produit reçu.",Problème de Livraison
+99,"Livraison rapide, produit conforme à la description.",Problème de Livraison
+100,"Emballage parfait, produit en excellent état.",Commentaire Positif
+101,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Qualité
+102,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+103,Produit pas cher mais de mauvaise qualité.,Problème de Livraison
+104,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Service Client
+105,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+106,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Commande
+107,"Livraison très lente, je ne suis pas content du service.",Service Client
+108,"Mauvais service client, aucune réponse à mes demandes.",Problème de Qualité
+109,"Problème avec la commande, erreur dans le produit reçu.",Service Client
+110,"Très mauvaise qualité, cassé après une utilisation.",Service Client
+111,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Qualité
+112,"Très mauvaise qualité, cassé après une utilisation.",Problème de Livraison
+113,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Livraison
+114,"Très mauvaise qualité, cassé après une utilisation.",Commentaire Positif
+115,"Mauvais service client, aucune réponse à mes demandes.",Commentaire Positif
+116,"Le produit est arrivé cassé, très déçu.",Commentaire Positif
+117,"Le produit est arrivé plus tôt que prévu, super service.",Commentaire Positif
+118,"Le produit est arrivé plus tôt que prévu, super service.",Commentaire Positif
+119,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Qualité
+120,"Problème avec la commande, erreur dans le produit reçu.",Problème de Qualité
+121,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+122,"Produit de qualité, mais le prix est trop élevé.",Commentaire Positif
+123,"Mauvais service client, aucune réponse à mes demandes.",Problème de Livraison
+124,"Produit excellent, je recommande à tous.",Service Client
+125,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Livraison
+126,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Livraison
+127,"Mauvais emballage, article endommagé à l'arrivée.",Problème de Qualité
+128,"Le produit est de très bonne qualité, je suis satisfait.",Service Client
+129,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+130,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Livraison
+131,"Emballage parfait, produit en excellent état.",Service Client
+132,"Livraison très lente, je ne suis pas content du service.",Service Client
+133,"Produit excellent, je recommande à tous.",Commentaire Positif
+134,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Commentaire Positif
+135,Produit pas cher mais de mauvaise qualité.,Problème de Qualité
+136,"Emballage parfait, produit en excellent état.",Problème de Livraison
+137,"Livraison rapide, produit conforme à la description.",Commentaire Positif
+138,"Très content du service client, réactif et à l'écoute.",Service Client
+139,"Très content du service client, réactif et à l'écoute.",Problème de Livraison
+140,"Livraison rapide, produit conforme à la description.",Service Client
+141,"Très mauvaise qualité, cassé après une utilisation.",Problème de Livraison
+142,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+143,"Mauvais emballage, article endommagé à l'arrivée.",Commentaire Positif
+144,"Livraison rapide, produit conforme à la description.",Commentaire Positif
+145,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Commande
+146,"Le produit est de très bonne qualité, je suis satisfait.",Service Client
+147,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Commande
+148,"Problème avec la commande, erreur dans le produit reçu.",Service Client
+149,"Emballage parfait, produit en excellent état.",Problème de Qualité
+150,"Produit satisfaisant, mais livraison trop longue.",Commentaire Positif
+151,"Mauvais service client, aucune réponse à mes demandes.",Problème de Livraison
+152,"Produit excellent, je recommande à tous.",Problème de Qualité
+153,"Livraison très lente, je ne suis pas content du service.",Problème de Commande
+154,"Produit excellent, je recommande à tous.",Service Client
+155,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+156,"Mauvais service client, aucune réponse à mes demandes.",Problème de Livraison
+157,"Le produit est arrivé cassé, très déçu.",Service Client
+158,"Service client efficace et rapide, problème résolu.",Problème de Qualité
+159,"Le produit est arrivé plus tôt que prévu, super service.",Commentaire Positif
+160,"Je n'ai pas reçu le bon produit, commande à revoir.",Service Client
+161,Produit pas cher mais de mauvaise qualité.,Problème de Commande
+162,"Service client efficace et rapide, problème résolu.",Problème de Livraison
+163,"Problème avec la commande, erreur dans le produit reçu.",Problème de Commande
+164,"Je n'ai pas reçu le bon produit, commande à revoir.",Service Client
+165,"Le produit est de très bonne qualité, je suis satisfait.",Problème de Qualité
+166,"Produit satisfaisant, mais livraison trop longue.",Commentaire Positif
+167,"Service client efficace et rapide, problème résolu.",Problème de Qualité
+168,"Produit satisfaisant, mais livraison trop longue.",Commentaire Positif
+169,"Le produit est conforme à mes attentes, très satisfait.",Commentaire Positif
+170,"Le produit est arrivé plus tôt que prévu, super service.",Service Client
+171,"Mauvais emballage, article endommagé à l'arrivée.",Commentaire Positif
+172,"La livraison était dans les temps, rien à signaler.",Commentaire Positif
+173,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Commentaire Positif
+174,"La livraison était dans les temps, rien à signaler.",Service Client
+175,"Le produit est arrivé cassé, très déçu.",Problème de Qualité
+176,"Très mauvaise qualité, cassé après une utilisation.",Problème de Qualité
+177,"Emballage parfait, produit en excellent état.",Commentaire Positif
+178,"Le produit est conforme à mes attentes, très satisfait.",Commentaire Positif
+179,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Qualité
+180,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Commande
+181,"Emballage parfait, produit en excellent état.",Service Client
+182,"Le produit est arrivé plus tôt que prévu, super service.",Service Client
+183,"Le produit est conforme à mes attentes, très satisfait.",Commentaire Positif
+184,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Livraison
+185,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Livraison
+186,"Produit de qualité, mais le prix est trop élevé.",Service Client
+187,"Livraison rapide, produit conforme à la description.",Problème de Commande
+188,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Livraison
+189,"Le produit est de très bonne qualité, je suis satisfait.",Problème de Qualité
+190,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Qualité
+191,"La livraison était dans les temps, rien à signaler.",Problème de Livraison
+192,"Produit de qualité, mais le prix est trop élevé.",Commentaire Positif
+193,"Livraison rapide, produit conforme à la description.",Service Client
+194,"Le produit est arrivé cassé, très déçu.",Commentaire Positif
+195,"Livraison très lente, je ne suis pas content du service.",Commentaire Positif
+196,"Le produit est conforme à mes attentes, très satisfait.",Problème de Livraison
+197,"Livraison rapide, produit conforme à la description.",Commentaire Positif
+198,"Je n'ai pas reçu le bon produit, commande à revoir.",Commentaire Positif
+199,"Très content du service client, réactif et à l'écoute.",Service Client
+200,"Produit de qualité, mais le prix est trop élevé.",Commentaire Positif
+201,"Problème avec la commande, erreur dans le produit reçu.",Problème de Qualité
+202,"Mauvais service client, aucune réponse à mes demandes.",Commentaire Positif
+203,"Service client efficace et rapide, problème résolu.",Service Client
+204,"Service client efficace et rapide, problème résolu.",Problème de Livraison
+205,"Produit de qualité, mais le prix est trop élevé.",Service Client
+206,"Mauvais service client, aucune réponse à mes demandes.",Commentaire Positif
+207,"La livraison était dans les temps, rien à signaler.",Service Client
+208,Produit pas cher mais de mauvaise qualité.,Problème de Livraison
+209,"Très content du service client, réactif et à l'écoute.",Service Client
+210,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Qualité
+211,"Très mauvaise qualité, cassé après une utilisation.",Commentaire Positif
+212,"Très mauvaise qualité, cassé après une utilisation.",Problème de Qualité
+213,"Très content du service client, réactif et à l'écoute.",Service Client
+214,"Livraison très lente, je ne suis pas content du service.",Commentaire Positif
+215,"Emballage parfait, produit en excellent état.",Problème de Commande
+216,"Mauvais service client, aucune réponse à mes demandes.",Problème de Qualité
+217,"Mauvais emballage, article endommagé à l'arrivée.",Service Client
+218,"Produit satisfaisant, mais livraison trop longue.",Commentaire Positif
+219,"Le produit est arrivé cassé, très déçu.",Problème de Livraison
+220,"Produit de qualité, mais le prix est trop élevé.",Problème de Commande
+221,"Le produit est arrivé cassé, très déçu.",Commentaire Positif
+222,"Produit de qualité, mais le prix est trop élevé.",Problème de Qualité
+223,"Je n'ai pas reçu le bon produit, commande à revoir.",Commentaire Positif
+224,"Produit excellent, je recommande à tous.",Problème de Commande
+225,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+226,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+227,"La livraison était dans les temps, rien à signaler.",Commentaire Positif
+228,"Je n'ai pas reçu le bon produit, commande à revoir.",Commentaire Positif
+229,"Très content du service client, réactif et à l'écoute.",Commentaire Positif
+230,"Livraison rapide, produit conforme à la description.",Problème de Commande
+231,"Produit satisfaisant, mais livraison trop longue.",Service Client
+232,"Livraison rapide, produit conforme à la description.",Commentaire Positif
+233,"Service client efficace et rapide, problème résolu.",Commentaire Positif
+234,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Commentaire Positif
+235,"Produit de qualité, mais le prix est trop élevé.",Commentaire Positif
+236,"Produit de qualité, mais le prix est trop élevé.",Service Client
+237,"Emballage parfait, produit en excellent état.",Problème de Qualité
+238,"Le produit est arrivé cassé, très déçu.",Problème de Qualité
+239,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+240,"Très mauvaise qualité, cassé après une utilisation.",Problème de Commande
+241,"Produit de qualité, mais le prix est trop élevé.",Problème de Commande
+242,"Très mauvaise qualité, cassé après une utilisation.",Service Client
+243,"Produit de qualité, mais le prix est trop élevé.",Problème de Qualité
+244,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Commande
+245,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+246,"Mauvais service client, aucune réponse à mes demandes.",Service Client
+247,"Produit de qualité, mais le prix est trop élevé.",Service Client
+248,"Produit excellent, je recommande à tous.",Service Client
+249,Produit pas cher mais de mauvaise qualité.,Service Client
+250,"Produit satisfaisant, mais livraison trop longue.",Problème de Livraison
+251,"Très mauvaise qualité, cassé après une utilisation.",Problème de Qualité
+252,"Livraison rapide, produit conforme à la description.",Problème de Commande
+253,"Le produit est de très bonne qualité, je suis satisfait.",Service Client
+254,"Produit satisfaisant, mais livraison trop longue.",Commentaire Positif
+255,"La livraison était dans les temps, rien à signaler.",Problème de Commande
+256,"Livraison très lente, je ne suis pas content du service.",Commentaire Positif
+257,"Très mauvaise qualité, cassé après une utilisation.",Commentaire Positif
+258,"La livraison était dans les temps, rien à signaler.",Commentaire Positif
+259,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Commande
+260,Produit pas cher mais de mauvaise qualité.,Problème de Commande
+261,"Produit excellent, je recommande à tous.",Problème de Livraison
+262,"La livraison était dans les temps, rien à signaler.",Problème de Livraison
+263,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Commentaire Positif
+264,"Mauvais service client, aucune réponse à mes demandes.",Problème de Livraison
+265,"Le produit est arrivé cassé, très déçu.",Service Client
+266,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Qualité
+267,"Mauvais emballage, article endommagé à l'arrivée.",Problème de Qualité
+268,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Livraison
+269,"Produit excellent, je recommande à tous.",Commentaire Positif
+270,"Mauvais emballage, article endommagé à l'arrivée.",Commentaire Positif
+271,"Très content du service client, réactif et à l'écoute.",Problème de Commande
+272,"Service client efficace et rapide, problème résolu.",Commentaire Positif
+273,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Qualité
+274,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+275,"Le produit est arrivé plus tôt que prévu, super service.",Problème de Qualité
+276,"Produit excellent, je recommande à tous.",Problème de Commande
+277,"Produit satisfaisant, mais livraison trop longue.",Problème de Qualité
+278,"Livraison rapide, produit conforme à la description.",Commentaire Positif
+279,"Service client efficace et rapide, problème résolu.",Problème de Commande
+280,"Mauvais service client, aucune réponse à mes demandes.",Commentaire Positif
+281,"Je n'ai pas reçu le bon produit, commande à revoir.",Commentaire Positif
+282,"Le produit est de très bonne qualité, je suis satisfait.",Commentaire Positif
+283,"Mauvais service client, aucune réponse à mes demandes.",Commentaire Positif
+284,"Le produit est de très bonne qualité, je suis satisfait.",Problème de Livraison
+285,"Livraison rapide, produit conforme à la description.",Problème de Qualité
+286,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Livraison
+287,"Problème avec la commande, erreur dans le produit reçu.",Commentaire Positif
+288,"Mauvais emballage, article endommagé à l'arrivée.",Problème de Qualité
+289,Produit pas cher mais de mauvaise qualité.,Problème de Livraison
+290,"Produit de qualité, mais le prix est trop élevé.",Problème de Livraison
+291,"Mauvais emballage, article endommagé à l'arrivée.",Commentaire Positif
+292,"Problème avec la commande, erreur dans le produit reçu.",Problème de Qualité
+293,"Emballage parfait, produit en excellent état.",Problème de Livraison
+294,"Mauvais service client, aucune réponse à mes demandes.",Problème de Livraison
+295,"Je n'ai pas reçu le bon produit, commande à revoir.",Problème de Livraison
+296,"Service client efficace et rapide, problème résolu.",Problème de Qualité
+297,"Le produit est de très bonne qualité, je suis satisfait.",Problème de Livraison
+298,Produit pas cher mais de mauvaise qualité.,Problème de Qualité
+299,"Très content du service client, réactif et à l'écoute.",Problème de Livraison
+300,"Je n'ai pas reçu le produit que j'ai commandé, très déçu.",Problème de Commande
